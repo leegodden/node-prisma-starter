@@ -1,0 +1,10 @@
+1. clone node start from https://github.com/mrwade/ultimate-node-stack
+2. run yarn upgrade-interactive update 
+		allows you to specify which dependencies and packages you want to update
+
+3. yarn upgrade --latest updates 
+		all your packages and dependencies to the lastest versions
+
+4. run docker-compose up
+5. add migrations requirements in migrations file and the schema.prisma file
+6. check db with db:console
