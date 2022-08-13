@@ -12,7 +12,7 @@ const seedDatabase = async () => {
       data: [
         {
           id: genId(),
-          submitttedAt: new Date(),
+          submittedAt: new Date(),
           data: {
             name: 'Kevin wade',
             twitter: 'kevinwwade',
